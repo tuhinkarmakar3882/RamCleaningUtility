@@ -1,8 +1,15 @@
 # Code By Tuhin Karmakar 
 '''
-Ram Cleaner 2.0 with Source Code
+     Ram Cleaner 2.0 with Source Code
 While Reusing it, Remember to Give a Credit !
+
+
+Requirements : psutil
+
+
+           Built on Python 3.7.4
 '''
+
 from itertools import permutations
 import psutil
 import sys
@@ -54,4 +61,3 @@ if __name__ == '__main__':
                print("[+] Available Memory : {} GB".format(float(memory_data['available_memory']) / total_bytes_per_GB) )
                
                sys.exit(1)
-
