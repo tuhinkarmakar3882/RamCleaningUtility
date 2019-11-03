@@ -1,3 +1,8 @@
+# Code By Tuhin Karmakar 
+'''
+Ram Cleaner 2.0 with Source Code
+While Reusing it, Remember to Give a Credit !
+'''
 from itertools import permutations
 import psutil
 import sys
