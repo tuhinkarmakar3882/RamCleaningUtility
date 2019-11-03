@@ -10,3 +10,12 @@ To address the problem of running into high ram usages and reduced speed of work
 
 > with Cross Platform support!
 
+
+
+## Requirements : 
+
+1. Python 3+
+2. psutil
+
+
+### Code by Tuhin Karmakar ♥
